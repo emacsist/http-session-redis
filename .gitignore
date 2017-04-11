@@ -1,0 +1,5 @@
+target/
+*.class
+*.bin
+*.jar
+classes/
