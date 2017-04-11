@@ -3,3 +3,9 @@ target/
 *.bin
 *.jar
 classes/
+target
+classes
+.settings/
+.settings
+.classpath
+.project
